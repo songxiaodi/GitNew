@@ -1,52 +1,8 @@
 ls -a
 Git is a distributed version control system.
-Git is free software distributed under the GPL.
-dsgsb
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Git is free software distributed under the GPl
+odsfsdf
+瓜皮
 
 
 
